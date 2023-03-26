@@ -1,0 +1,58 @@
+Finished Tutorial: Yes
+Understands Commands: Yes
+Understands Sliders: Yes
+Understands Profiles: Yes
+Understands Context Menu: Yes
+Understands Command Chaining: Yes
+Tree Compatibility Version: 45
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 8182D3FF
+				Focused Text Colour: 000000FF
+				Focused Right-Bound Text Colour: 000000FF
+				Focused Texture Colour: 000000FF
+				Background Colour: 00000091
+				Unfocused Text Colour: 8182D3FF
+				Unfocused Right-Bound Text Colour: 8182D3FF
+				Unfocused Texture Colour: 8182D3FF
+			Position: 1455, 121
+			Header
+				Header: Custom
+			Address Bar
+				Address Bar: Off
+				Root Name: Hidden
+				Height: 25
+				Text
+					Scale: 11
+			Tabs
+				Width: 62
+				Height: 25
+				Position: Top
+				Text
+					Scale: 11
+				Text Alignment: Centre
+			Scrollbar
+				Width: 3
+			Notifications
+				Border Colour: 8182D3FF
+				Flash Colour: 00000088
+				Background Colour: 00000088
+			Commands
+				Text
+					Scale: 13
+			Border
+				Width: 2
+				Rounded: On
+				Colour: 8182D3FF
+			Max Visible Commands: 12
+			List Width: 434
+			List Height: 28
+			Spacer Size: 0
+			Background Blur: 0
+			Font & Text
+				Small Text
+					Scale: 11
+					X Offset: -1
+					Y Offset: 3
